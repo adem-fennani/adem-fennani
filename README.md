@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Adem Fennani</h1>
-<h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast | AI & ML Explorer</h3>
+<h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adem-fennani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,19 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Automation tools** and **modern web applications**
-- 🌱 Learning advanced **Cloud Computing** and **Systems Architecture**
+- 🔭 Currently working on **AI-powered automation tools** and **modern web applications**
+- 🌱 Learning advanced **Machine Learning** and **Cloud Architecture**
 - 💼 All of my projects are available at [My Portfolio](https://adem-fennani.github.io/portfolio-website/)
 - 📫 Reach me at **ademfennani7@gmail.com**
 - ⚡ Fun fact: I love building systems that make life easier!
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adem-fennani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -90,32 +82,15 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 Activity Graph
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adem-fennani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adem-fennani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adem-fennani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adem-fennani&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adem-fennani&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ---
 
 ### 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
