@@ -1,3 +1,5 @@
+<div style="background-color: #444444ff; padding: 20px;">
+
 <h1 align="center">Hi there! 👋 I'm Adem Fennani</h1>
 <h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
@@ -117,3 +119,5 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/adem-fennani">adem-fennani</a> | Made with ❤️
 </p>
+
+</div>
