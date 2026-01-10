@@ -1,5 +1,3 @@
-<div style="background-color: #444444ff; padding: 20px;">
-
 <h1 align="center">Hi there! 👋 I'm Adem Fennani</h1>
 <h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
@@ -53,15 +51,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="45" height="45"/>
+  <img src="https://symfony.com/logos/symfony_white_03.svg" alt="Symfony" width="45" height="45"/>
 </p>
 
 #### 🎨 Frontend Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
 </p>
@@ -119,5 +117,3 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/adem-fennani">adem-fennani</a> | Made with ❤️
 </p>
-
-</div>
