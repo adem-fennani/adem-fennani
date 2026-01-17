@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Adem Fennani</h1>
+<h1 align="center">Hi there! I'm Adem Fennani</h1>
 <h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **Automation tools** and **modern cloud-native applications**
 - 🌱 Learning advanced **Cloud Architecture**
-- 💼 All of my projects are available at [My Portfolio](https://adem-fennani.github.io/portfolio-website/)
+- 💼 Currently building my [My Portfolio](https://adem-fennani.github.io/portfolio-website/)
 - 📫 Reach me at **ademfennani7@gmail.com**
 - ⚡ Fun fact: I love building systems that make life easier!
 
@@ -51,7 +51,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
   <img src="https://symfony.com/logos/symfony_white_03.svg" alt="Symfony" width="45" height="45"/>
 </p>
