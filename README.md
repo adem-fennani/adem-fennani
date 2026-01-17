@@ -72,13 +72,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
 </p>
 
-#### 🤖 AI/ML & Data Science
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-</p>
-
 #### 🛠️ Other Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
@@ -95,6 +88,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adem-fennani&theme=tokyonight" alt="Profile Summary" height="200"/>
 </p>
+
+---
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adem-fennani&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ---
 
