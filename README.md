@@ -98,12 +98,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adem-fennani&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
----
-
 ### 💡 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
