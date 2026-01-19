@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👏I'm Adem Fennani</h1>
+<h1 align="center">Hi there!I'm Adem Fennani</h1>
 <h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
 <p align="center">
