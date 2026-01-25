@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! I'm Adem Fennani</h1>
 <h3 align="center">Full-Stack Developer | Cloud Computing Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adem-fennani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -104,6 +100,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adem-fennani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
