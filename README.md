@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **Automation tools** and **modern cloud-native applications**
 - 🌱 Learning advanced **Cloud Architecture**
-- 💼 Currently building my [My Portfolio](https://adem-fennani.github.io/portfolio-website/)
+- 💼 Currently building my [my Portfolio](https://adem-fennani.github.io/portfolio-website/)
 - 📫 Reach me at **ademfennani7@gmail.com**
 - ⚡ Fun fact: I love building systems that make life easier!
 
@@ -103,9 +103,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adem-fennani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  ⭐️ From <a href="https://github.com/adem-fennani">adem-fennani</a> | Made with ❤️
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/adem-fennani">adem-fennani</a> | Made with ❤️
+  <img src="https://komarev.com/ghpvc/?username=adem-fennani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
