@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **Automation tools** and **modern cloud-native applications**
 - 🌱 Learning advanced **Cloud Architecture**
-- 💼 Currently building my [my Portfolio](https://adem-fennani.github.io/portfolio-website/)
+- 💼 You can check [my Portfolio here](https://adem-fennani.github.io/portfolio-website/)
 - 📫 Reach me at **ademfennani7@gmail.com**
 - ⚡ Fun fact: I love building systems that make life easier!
 
